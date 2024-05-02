@@ -1,0 +1,33 @@
+clue 1: Spanier & Haus 1
+-> Der Spanier wohnt im Haus ganz links.
+clue 2: Engländer & Kools
+-> Der Engländer raucht Kools.
+clue 3: Milch & Haus 3
+-> Milch wird im mittleren Haus getrunken.
+clue 4: Old Gold & Tee
+-> Old Gold und Tee werden von der gleichen Person konsumiert.
+clue 5: Chesterfield <?> O-Saft
+-> Der O-Saft-Trinker wohnt neben dem Chesterfield-Raucher.
+clue 6: Parliament <?> Pferd
+-> Der direkte Nachbar des Parliament-Rauchers hat ein Pferd.
+clue 7: Norweger & Fuchs
+-> Der Norweger hat einen Fuchs.
+clue 8: Ukrainer & Kaffee
+-> Der Ukrainer trinkt Kaffee.
+clue 9: Lucky Strike & Schnecken
+-> Der Schnecken-Besitzer raucht Lucky Strike.
+clue 10: Chesterfield <?> Zebra
+-> Der direkte Nachbar des Chesterfield-Rauchers hat ein Zebra.
+clue 11: grün < blau
+-> Das grüne Haus ist direkt links vom blauen Haus.
+clue 12: Parliament & rot
+-> Im roten Haus wird Parliament geraucht.
+clue 13: Wasser & grün
+-> Im grünen Haus wird Wasser getrunken.
+clue 14: Spanier <?> weiß
+-> Der Spanier wohnt neben dem weißen Haus.
+clue 15: Japaner & gelb
+-> Der Japaner wohnt im gelben Haus.
+O-Saft ?, Hund ?
+Wer trinkt O-Saft? Wo wohnt der Hund?
+
