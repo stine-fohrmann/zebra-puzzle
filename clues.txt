@@ -1,0 +1,17 @@
+clue 1: Uhr & Auto & mittags
+        -> Die Uhr wurde mittags im Auto gefunden.
+clue 2: (Schrottplatz, Uhr, Tante Mathilda) &? (morgens, mittags, abends)
+        -> Die Gegenstände, die morgens, mittags und abends gefunden wurden, waren die Uhr,
+            der Gegenstand auf dem Schrottplatz und Tante Mathildas Fundstück, aber die Reihenfolge
+            ist unbekannt.
+clue 3: Totenkopf & morgens
+        -> Der Totenkopf wurde morgens gefunden.
+clue 4: Peter & Bibliothek & vormittags
+        -> Peter wurde vormittags in der Bibliothek fündig.
+clue 5: (Büste & nachmittags & Zentrale) !& Justus
+        -> Die Büste wurde nachmittags in der Zentrale entdeckt, allerdings nicht von Justus.
+clue 6: (Onkel Titus, Peter) &? (vormittags, mittags)
+        -> Peter und Onkel Titus wurden vormittags und mittags fündig, allerdings erinnern sie sich
+            nicht mehr daran, wer zuerst seinen Gegenstand entdeckte.
+clue 7: Vase !& mittags, Vase !& abends
+        -> Die Vase wurde weder mittags, noch abends entdeckt.
