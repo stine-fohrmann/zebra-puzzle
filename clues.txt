@@ -15,3 +15,20 @@ clue 6: (Onkel Titus, Peter) &? (vormittags, mittags)
             nicht mehr daran, wer zuerst seinen Gegenstand entdeckte.
 clue 7: Vase !& mittags, Vase !& abends
         -> Die Vase wurde weder mittags, noch abends entdeckt.
+
+clue 1: juice & red & Flora 
+clue 2: (cookie, biscuit) &? (Emmy, Flora) 
+clue 3: (green, juice, scone) &? (Professor Layton, Flora, Luke)
+clue 4: (water & Descole & orange) !& piece of cake
+clue 5: biscuit & blue & Emmy
+clue 6: tea & Professor Layton
+clue 7: coffee !& Flora, coffee !& Luke
+
+clue 1: Flora sat in the red chair and drank juice.
+clue 2: Emmy and Flora are the cookie and the biscuit, but it is unknown who ate which.
+clue 3: The persons who sat in the green chair, drank juice and ate the scone are Professor Layton, Flora and Luke.
+        Each of Professor Layton, Flora and Luke either sat in the green chair, drank juice or ate a scone.
+clue 4: Descole sat in the orange chair and drank water, but he did not have a piece of cake.
+clue 5: Emmy sat in the blue chair and ate a biscuit.
+clue 6: Professor Layton drank tea.
+clue 7: Neither Flora not Luke drank coffee.
