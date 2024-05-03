@@ -32,3 +32,38 @@ clue 4: Descole sat in the orange chair and drank water, but he did not have a p
 clue 5: Emmy sat in the blue chair and ate a biscuit.
 clue 6: Professor Layton drank tea.
 clue 7: Neither Flora not Luke drank coffee.
+
+
+clue 1: Parliament & tea
+clue 2: Chesterfield & blue
+clue 3: Lucky Strike & horse
+clue 4: Kools <?> coffee
+clue 5: Kools <?> snails
+clue 6: milk & house 3
+clue 7: japanese & yellow
+clue 8: ukranian & orange juice
+clue 9: norwegian & Old Gold
+clue 10: water & red
+clue 11: Chesterfield <?> dog
+clue 12: spanish <?> green
+clue 13: english & fox
+clue 14: spanish & house 1
+clue 15: red < white
+question: coffee ?, zebra ?
+
+clue 1: The tea drinker smokes Parliament.
+clue 2: The person who smokes Chesterfield lives in the blue house.
+clue 3: The person who smokes Lucky Strike owns a horse.
+clue 4: The coffee drinker lives next to the person who smokes Kools.
+clue 5: The person who smokes Kools lives next to the person who has snails.
+clue 6: The perosn living in the middle house drinks milk.
+clue 7: The Japanese lives in the yellow house.
+clue 8: The Ukranian drinks orange juice.
+clue 9: The Norwegian smokes Old Gold.
+clue 10: The person drinking water lives in the red house.
+clue 11: The dog owner lives next to the person smoking Chesterfield.
+clue 12: The Spaniard lives next to the green house.
+clue 13: The Englishman has a fox.
+clue 14: The person living in the first house is Spanish.
+clue 15: The red house is directly left of the white house.
+question: Who drinks coffee? Who owns a zebra?

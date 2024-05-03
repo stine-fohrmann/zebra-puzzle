@@ -56,18 +56,27 @@ import random
 
 ''' Code '''
 # specify the qualities
-qualitya = ['Haus 1', 'Haus 2', 'Haus 3', 'Haus 4', 'Haus 5']   # ordered quality
-qualityb = ['gelb', 'blau', 'rot', 'grün', 'weiß']
-qualityc = ['Norweger', 'Ukrainer', 'Engländer', 'Japaner', 'Spanier']
-qualityd = ['Wasser', 'Tee', 'Milch', 'Kaffee', 'O-Saft']
+# qualitya = ['Haus 1', 'Haus 2', 'Haus 3', 'Haus 4', 'Haus 5']   # ordered quality
+qualitya = ['house 1', 'house 2', 'house 3', 'house 4', 'house 5']   # ordered quality
+# qualityb = ['gelb', 'blau', 'rot', 'grün', 'weiß']
+qualityb = ['yellow', 'blue', 'red', 'green', 'white']
+# qualityc = ['Norweger', 'Ukrainer', 'Engländer', 'Japaner', 'Spanier']
+qualityc = ['norwegian', 'ukranian', 'english', 'japanese', 'spanish']
+# qualityd = ['Wasser', 'Tee', 'Milch', 'Kaffee', 'O-Saft']
+qualityd = ['water', 'tea', 'milk', 'coffee', 'orange juice']
 qualitye = ['Kools', 'Chesterfield', 'Old Gold', 'Parliament', 'Lucky Strike']
-qualityf = ['Fuchs', 'Pferd', 'Schnecken', 'Zebra', 'Hund']
+# qualityf = ['Fuchs', 'Pferd', 'Schnecken', 'Zebra', 'Hund']
+qualityf = ['fox', 'horse', 'snails', 'zebra', 'dog']
 qualities = [qualitya, qualityb, qualityc, qualityd, qualitye, qualityf]
 qualities_to_be_shuffled = [qualityb, qualityc, qualityd, qualitye, qualityf]
 
 # reorder each quality randomly
 for q in qualities_to_be_shuffled:
     random.shuffle(q)
+
+# reorder qualities
+random.shuffle(qualities_to_be_shuffled)
+
 # assign abstractions to qualities
 [a1, a2, a3, a4, a5] = qualitya
 [b1, b2, b3, b4, b5] = qualityb
@@ -75,6 +84,7 @@ for q in qualities_to_be_shuffled:
 [d1, d2, d3, d4, d5] = qualityd
 [e1, e2, e3, e4, e5] = qualitye
 [f1, f2, f3, f4, f5] = qualityf
+
 # specify clues puzzle 1
 clue02 = f'{c3} & {b3}'
 clue03 = f'{c5} & {f5}'
@@ -93,11 +103,14 @@ clue15 = f'{c1} <?> {b2}'
 clue16 = f'{e2} <?> {d1}'
 question = f'{d1} ?, {f4} ?'
 clues = [clue02, clue03, clue04, clue05, clue06, clue07, clue08, clue09, clue10, clue11, clue12, clue13, clue14, clue15, clue16]
+
 # reorder the clues randomly
 random.shuffle(clues)
+
 # print the qualities
 for i in range(len(qualities)):
     print(f'quality {i+1}: {qualities[i]}')
+
 # print the clues
 for i in range(len(clues)):
     print(f'clue {i+1}: {clues[i]}')
